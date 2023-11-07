@@ -13,7 +13,7 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 
 ## Documentação
 
-<a href="(https://external.ink?to=/JavaDoc/LoginScreen.html">JavaDoc</a>
+<a href="https://external.ink?to=/JavaDoc/LoginScreen.html">JavaDoc</a>
 
 ## Publicação
 https://github.com/Rafael-MJ/TQS-LoginScreen
