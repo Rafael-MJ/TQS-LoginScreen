@@ -11,9 +11,9 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 
 ![Testes](tests.png)
 
-## JavaDoc
+## Documentação
 
-![JavaDoc](JavaDoc/LoginScreen.html)
+<a href="JavaDoc/LoginScreen.html">JavaDoc</a>
 
 ## Publicação
 https://github.com/Rafael-MJ/TQS-LoginScreen
