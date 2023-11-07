@@ -5,15 +5,15 @@ O projeto foi desenvolvido na IDE IntelliJ, consiste em um código simples para 
 
 ## Exemplo de Documentação
 
-![Documentacao](doc.png)
+![Documentacao](ex_doc.png)
 
 ## Testes
 
-![Testes](tests.png)
+![Testes](ex_tests.png)
 
 ## Documentação
 
-JavaDoc/LoginScreen.html
+doc/LoginScreen.html
 
 ## Publicação
 https://github.com/Rafael-MJ/TQS-LoginScreen
